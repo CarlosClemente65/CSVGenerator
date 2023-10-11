@@ -1,7 +1,7 @@
-# generarCSV
+# CSVGenerator
 ## Programa para generar Codigos Seguros de Verificacion (CSV)
 
-### Desarrollado por Carlos Clemente (10-2023)
+### Desarrollado por Carlos Clemente (10-2023) version 1.0
 
 Instrucciones:
 - Si no se pasa ningun parametro, el CSV se generara con una longitud de 20 caracteres
